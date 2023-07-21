@@ -2,21 +2,21 @@
 
 ## Technologies Used
 
-Java
-Servlets
-JSP (JavaServer Pages)
-HTML
-CSS
-Bootstrap (optional, if used)
-Apache Tomcat
-XAMPP (or any other web server of your choice)
-Maven
+- Java
+- Servlets
+- JSP (JavaServer Pages)
+- HTML
+- CSS
+- Bootstrap
+- Apache Tomcat
+- XAMPP 
+- Maven
 
 ## Description
 
 This project is an MVC web application built using Java Servlets and JSP (JavaServer Pages). It follows the Model-View-Controller (MVC) architecture and includes separate controllers, models, and views packages. The project utilizes the Apache Tomcat server for running the web application locally. XAMPP is used for managing the MySQL database. Maven is used as the build tool to manage dependencies and packages.
 
-#Setup Instructions
+## Setup Instructions
 
 - Fork the repository
   
@@ -50,4 +50,4 @@ $ git clone git@github.com:Zshiva/Java-Assignment.git
 - Views: Contains the JSP files for rendering the views.
 
 ## Run the project locally:
-- The web application will be accessible at http://localhost:8080/Java-Assignment/...
+- The web application will be accessible through http://localhost:8080/Java-Assignment/Views/registration.jsp
